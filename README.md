@@ -3,12 +3,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejn&label=Profile%20views&color=0e75b6&style=flat" alt="thejn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejn" alt="thejn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jnigou" target="blank"><img src="https://img.shields.io/twitter/follow/jnigou?logo=twitter&style=for-the-badge" alt="jnigou" /></a> </p>
+
+- 🔭 I’m currently working on **Detecting pertubators on textile**
+
+- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning...**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TheJN](https://github.com/TheJN)
+
+- 📝 I regularly write articles on [https://github.com/TheJN/](https://github.com/TheJN/)
+
+- 💬 Ask me about **AI algorithms**
 
 - 📫 How to reach me **julienigou@outlook.com**
 
+- 📄 Know about my experiences [https://github.com/TheJN/](https://github.com/TheJN/)
+
+- ⚡ Fun fact **I need to fill this section**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/jnigou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jnigou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/julien nigou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien nigou" height="30" width="40" /></a>
+<a href="https://kaggle.com/julien nigou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julien nigou" height="30" width="40" /></a>
+<a href="https://fb.com/julien nigou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="julien nigou" height="30" width="40" /></a>
+<a href="https://instagram.com/juliennigou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliennigou" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
