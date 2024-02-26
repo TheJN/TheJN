@@ -11,15 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheJN](https://github.com/TheJN)
 
-- 📝 I regularly write articles on [https://github.com/TheJN/](https://github.com/TheJN/)
-
 - 💬 Ask me about **AI algorithms**
 
 - 📫 How to reach me **julienigou@outlook.com**
 
 - 📄 Know about my experiences [https://github.com/TheJN/](https://github.com/TheJN/)
 
-- ⚡ Fun fact **I need to fill this section**
+- ⚡ Fun fact **Remind me that I need to fill this section**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
